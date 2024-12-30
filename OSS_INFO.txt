@@ -1,0 +1,5 @@
+NAME=Android Common Kernel
+VERSION=android14-5.15
+URL=https://android.googlesource.com/kernel/common/+/refs/heads/android14-5.15
+LICENSE=GNU General Public License version 2
+COMMENT=kernel code
