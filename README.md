@@ -1,4 +1,4 @@
-# mt9620
+# mt9655
 
 # 0. download an generic arm architecture toolchains
  
